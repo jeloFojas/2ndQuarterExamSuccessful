@@ -9,7 +9,7 @@ namespace ConsoleApp3
 			string projectStatus = "Project: Exam v1.0";
 			int totalQuestions = 50;
 
-			for (int answeredQuestions = 0; answeredQuestions <= totalQuestions; answeredQuestions++)
+			for (int answeredQuestions = 1; answeredQuestions <= totalQuestions; answeredQuestions++)
 			{
 				if (answeredQuestions == totalQuestions)
 				{
